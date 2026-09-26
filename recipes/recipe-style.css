@@ -1,0 +1,15 @@
+body {
+    background-color: lightcoral;
+    color: white;
+    padding: 50px;
+}
+
+ul li {
+    font-family: "Courier New", monospace;
+}
+
+.home-button {
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+}
